@@ -1,0 +1,97 @@
+[INFO ] 2019-01-04 11:57:32 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 11:57:32 com.MavenProject.CrossBrowserTesting:Line Number 21: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 11:57:34 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 11:57:34 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 11:57:34 com.MavenProject.CrossBrowserTesting:Line Number 25: TestCase 1 is executed.
+[INFO ] 2019-01-04 11:57:34 com.MavenProject.CrossBrowserTesting:Line Number 43: Application closed.
+[INFO ] 2019-01-04 11:57:42 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 11:57:42 com.MavenProject.CrossBrowserTesting:Line Number 31: TestCase 2 is started for execution.
+[INFO ] 2019-01-04 11:57:43 com.MavenProject.Keyword:Line Number 121: Actual Result 'click' is not matched with Expected Result 'clicke'
+[INFO ] 2019-01-04 11:57:43 com.MavenProject.Keyword:Line Number 122:  TestCase Failed.
+[INFO ] 2019-01-04 11:57:43 com.MavenProject.CrossBrowserTesting:Line Number 35: TestCase 2 is executed.
+[INFO ] 2019-01-04 11:57:44 com.MavenProject.CrossBrowserTesting:Line Number 43: Application closed.
+[INFO ] 2019-01-04 01:09:56 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:09:56 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:09:57 com.MavenProject.CrossBrowserTesting:Line Number 21: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:09:58 com.MavenProject.CrossBrowserTesting:Line Number 21: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:10:00 com.MavenProject.CrossBrowserTesting:Line Number 43: Application closed.
+[INFO ] 2019-01-04 01:10:07 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:10:07 com.MavenProject.CrossBrowserTesting:Line Number 31: TestCase 2 is started for execution.
+[INFO ] 2019-01-04 01:10:09 com.MavenProject.Keyword:Line Number 121: Actual Result 'click' is not matched with Expected Result 'clicke'
+[INFO ] 2019-01-04 01:10:09 com.MavenProject.Keyword:Line Number 122:  TestCase Failed.
+[INFO ] 2019-01-04 01:10:09 com.MavenProject.CrossBrowserTesting:Line Number 35: TestCase 2 is executed.
+[INFO ] 2019-01-04 01:10:10 com.MavenProject.CrossBrowserTesting:Line Number 43: Application closed.
+[INFO ] 2019-01-04 01:11:23 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:11:23 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:11:23 com.MavenProject.CrossBrowserTesting:Line Number 31: TestCase 2 is started for execution.
+[INFO ] 2019-01-04 01:11:24 com.MavenProject.CrossBrowserTesting:Line Number 21: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:11:26 com.MavenProject.CrossBrowserTesting:Line Number 43: Application closed.
+[INFO ] 2019-01-04 01:11:34 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:11:34 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:11:34 com.MavenProject.CrossBrowserTesting:Line Number 31: TestCase 2 is started for execution.
+[INFO ] 2019-01-04 01:11:34 com.MavenProject.CrossBrowserTesting:Line Number 21: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:11:36 com.MavenProject.CrossBrowserTesting:Line Number 43: Application closed.
+[INFO ] 2019-01-04 01:14:59 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:14:59 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:15:00 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:15:00 com.MavenProject.CrossBrowserTesting:Line Number 32: TestCase 2 is started for execution.
+[INFO ] 2019-01-04 01:15:02 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:15:11 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:15:11 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:15:11 com.MavenProject.CrossBrowserTesting:Line Number 32: TestCase 2 is started for execution.
+[INFO ] 2019-01-04 01:15:12 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:15:14 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:17:04 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:17:05 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:17:06 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 01:17:06 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 01:17:06 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 01:17:07 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:18:12 com.MavenProject.Keyword:Line Number 47: Invalid Browser
+[INFO ] 2019-01-04 01:18:12 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:50:08 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:50:08 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:50:10 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 01:50:10 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 01:50:10 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 01:50:11 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:50:17 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:50:18 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:50:19 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 01:50:19 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 01:50:19 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 01:50:20 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:52:32 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:52:32 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:52:32 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:52:33 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:52:35 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:54:06 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:54:07 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:54:08 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 01:54:08 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 01:54:08 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 01:54:09 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:54:17 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:54:18 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:54:20 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 01:54:20 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 01:54:20 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 01:54:20 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 01:56:19 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:56:20 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 01:56:20 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:56:20 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 01:56:22 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 02:01:43 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 02:01:44 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 02:01:45 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 02:01:45 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 02:01:45 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 02:01:46 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.
+[INFO ] 2019-01-04 02:01:54 com.MavenProject.Keyword:Line Number 25: Application launched on Chrome Browser
+[INFO ] 2019-01-04 02:01:54 com.MavenProject.CrossBrowserTesting:Line Number 22: TestCase 1 is started for execution.
+[INFO ] 2019-01-04 02:01:56 com.MavenProject.Keyword:Line Number 105: Actual Result 'true' is matched with Expected Result 'true'
+[INFO ] 2019-01-04 02:01:56 com.MavenProject.Keyword:Line Number 106:  TestCase Passed.
+[INFO ] 2019-01-04 02:01:56 com.MavenProject.CrossBrowserTesting:Line Number 26: TestCase 1 is executed.
+[INFO ] 2019-01-04 02:01:56 com.MavenProject.CrossBrowserTesting:Line Number 44: Application closed.

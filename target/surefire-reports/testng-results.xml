@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testcases" duration-ms="21037" started-at="2019-01-04T10:17:13Z" finished-at="2019-01-04T10:17:35Z">
+    <groups>
+    </groups>
+    <test name="TestCase1" duration-ms="11447" started-at="2019-01-04T10:17:13Z" finished-at="2019-01-04T10:17:25Z">
+      <class name="com.MavenProject.CrossBrowserTesting">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:com.MavenProject.CrossBrowserTesting@190c9c3]" name="launchApplication" is-config="true" duration-ms="9255" started-at="2019-01-04T10:17:13Z" finished-at="2019-01-04T10:17:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.MavenProject.CrossBrowserTesting@190c9c3]" name="Test1" duration-ms="1506" started-at="2019-01-04T10:17:23Z" finished-at="2019-01-04T10:17:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearOut()[pri:0, instance:com.MavenProject.CrossBrowserTesting@190c9c3]" name="tearOut" is-config="true" duration-ms="665" started-at="2019-01-04T10:17:24Z" finished-at="2019-01-04T10:17:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOut -->
+      </class> <!-- com.MavenProject.CrossBrowserTesting -->
+    </test> <!-- TestCase1 -->
+    <test name="TestCase2" duration-ms="9566" started-at="2019-01-04T10:17:25Z" finished-at="2019-01-04T10:17:35Z">
+      <class name="com.MavenProject.CrossBrowserTesting">
+        <test-method status="PASS" signature="launchApplication(java.lang.String)[pri:0, instance:com.MavenProject.CrossBrowserTesting@82f6ef]" name="launchApplication" is-config="true" duration-ms="7460" started-at="2019-01-04T10:17:25Z" finished-at="2019-01-04T10:17:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.MavenProject.CrossBrowserTesting@82f6ef]" name="Test1" duration-ms="1471" started-at="2019-01-04T10:17:32Z" finished-at="2019-01-04T10:17:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="tearOut()[pri:0, instance:com.MavenProject.CrossBrowserTesting@82f6ef]" name="tearOut" is-config="true" duration-ms="635" started-at="2019-01-04T10:17:34Z" finished-at="2019-01-04T10:17:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearOut -->
+      </class> <!-- com.MavenProject.CrossBrowserTesting -->
+    </test> <!-- TestCase2 -->
+  </suite> <!-- Testcases -->
+</testng-results>

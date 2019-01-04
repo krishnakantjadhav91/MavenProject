@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testcases" parallel="tests"  thread-count="1">	
+	<test name="TestCase1">
+		<parameter name="browserType" value="chrome"/>
+		<classes>
+			<class name="com.MavenProject.CrossBrowserTesting"/>
+		</classes>		
+	</test>
+	<test name="TestCase2">
+		<parameter name="browserType" value="chrome"/>
+		<classes>
+			<class name="com.MavenProject.CrossBrowserTesting"/>
+		</classes>		
+	</test>
+</suite>

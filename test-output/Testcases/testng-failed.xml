@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Testcases]" parallel="tests">
+  <test thread-count="2" name="TestCase1(failed)" parallel="tests">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="com.MavenProject.CrossBrowserTesting">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="tearOut"/>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- com.MavenProject.CrossBrowserTesting -->
+    </classes>
+  </test> <!-- TestCase1(failed) -->
+  <test thread-count="2" name="TestCase2(failed)" parallel="tests">
+    <parameter name="browserType" value="chrome"/>
+    <classes>
+      <class name="com.MavenProject.CrossBrowserTesting">
+        <methods>
+          <include name="launchApplication"/>
+          <include name="tearOut"/>
+          <include name="Test1"/>
+        </methods>
+      </class> <!-- com.MavenProject.CrossBrowserTesting -->
+    </classes>
+  </test> <!-- TestCase2(failed) -->
+</suite> <!-- Failed suite [Testcases] -->
