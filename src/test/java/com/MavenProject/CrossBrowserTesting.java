@@ -13,6 +13,7 @@ public class CrossBrowserTesting
 	@BeforeMethod
 	public void launchApplication(String browserType)
 	{
+		
 		Keyword.launchApplication(browserType, "http://demo.automationtesting.in/Register.html");				
 	}
 	
